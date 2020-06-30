@@ -1,0 +1,13 @@
+1.Mobile Game
+2.PC Game
+
+
+Scenes:
+- Main Menu.
+- Pick a option:
+    1.PC VS Player.
+    2.Player 1 VS Player 2.
+- Game
+    1.Game Logic
+- Win Screen/ Lose Screen.
+    Back button to MainScreen.
