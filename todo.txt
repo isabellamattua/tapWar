@@ -11,3 +11,5 @@ Scenes:
     1.Game Logic
 - Win Screen/ Lose Screen.
     Back button to MainScreen.
+
+    Kingsley Note: I had to switch project to 2019.4.1f1 to target Android. 
