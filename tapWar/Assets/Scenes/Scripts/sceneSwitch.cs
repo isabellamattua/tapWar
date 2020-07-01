@@ -7,7 +7,7 @@ scirpt to go from one scene to other.
     ~Main Menu
     ~Payers
     ~Game
-
+The splash scene is one big button
 Note before moving on need to clean up nameing
 of the sceneswitches.
 
