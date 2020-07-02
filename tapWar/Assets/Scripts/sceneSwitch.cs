@@ -18,18 +18,19 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class sceneSwitch : MonoBehaviour{
 
-    public void sceneSwitcher(){
-        SceneManager.LoadScene(1);
+
+ public void loadBack(){
+        SceneManager.LoadScene(-1);
     }
-    public void sceneSwitcher2(){
+    public void loadPlayerScene(){
         SceneManager.LoadScene(2);
     }
 
-     public void sceneSwitcher3(){
+     public void loadGamScene(){
         SceneManager.LoadScene(3);
     }
 
-     public void sceneSwitcher4(){
+     public void goBackToPlayScene(){
         SceneManager.LoadScene(2);
     }
 }
